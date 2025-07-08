@@ -11,7 +11,7 @@ export default function ProfilePage() {
                     <p className="text-[#c5f82a] text-center">London, United Kingdom</p>
                 </div>
                 <div className="text-gray-500">
-                    <p>"Front-end developer and avid reader."</p>
+                    <p>&quot;Front-end developer and avid reader.&quot;</p>
                 </div>
                 <div className="w-full px-7 font-bold text-white">
                     <Link href='' className="block w-full text-center py-2 mb-3 rounded-lg bg-gray-700 hover:bg-[#c5f82a] hover:text-black ">Github</Link>
