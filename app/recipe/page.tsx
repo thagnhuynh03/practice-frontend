@@ -3,7 +3,7 @@ import Image from 'next/image';
 
 export default function RecipePage() {
   return (
-    <div className='min-w-screen min-h-screen bg-white'>
+    <div className='pb-10 bg-white text-black dark:bg-white dark:text-black'>
       <div className='sm:p-10'>
       <Image
         src="/images/recipes/image-omelette.jpeg"
