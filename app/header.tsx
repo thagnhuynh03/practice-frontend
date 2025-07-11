@@ -8,6 +8,7 @@ export default function Header() {
                 <li className="list-none flex space-x-4">
                     <ul className="hover:text-gray-400"><Link href='/recipe'>Recipe</Link></ul>
                     <ul className="hover:text-gray-400"><Link href='/profile'>Profile</Link></ul>
+                    <ul className="hover:text-gray-400"><Link href='/summary'>Summary</Link></ul>
                 </li>
             </div>
         </nav>
