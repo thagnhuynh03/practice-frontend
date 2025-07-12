@@ -9,6 +9,7 @@ export default function Header() {
                     <ul className="hover:text-gray-400"><Link href='/recipe'>Recipe</Link></ul>
                     <ul className="hover:text-gray-400"><Link href='/profile'>Profile</Link></ul>
                     <ul className="hover:text-gray-400"><Link href='/summary'>Summary</Link></ul>
+                    <ul className="hover:text-gray-400"><Link href='/home'>Home</Link></ul>
                 </li>
             </div>
         </nav>
